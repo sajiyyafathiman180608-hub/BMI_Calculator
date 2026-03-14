@@ -6,7 +6,7 @@ BMI_Calculator
     This is a simple BMI (Body Mass Index) Calculator built using Python.
     This program takes a user's name, height, and weight, calculates the BMI value, and displays the corresponding health category.
     The application also supports multiple users by allowing the user to enter the number of members. 
-    It contains 2 files .BMINorm.py contains the code using function and for loop . bmiwofn.py (BMI without function) contains the code without function.
+    It contains 2 files . BMINorm.py contains the code using function and for loop . bmiwofn.py (BMI without function) contains the code without function.
 
 # FEATURES :
 
@@ -39,7 +39,7 @@ BMI_Calculator
          * calculate (b,c) -  calls the function to check and display the category.
          * The output shows each person's BMI Report in a clean manner.
 
-#AUTHOR:
+# AUTHOR:
 
 Sajiyya Fathima N
 
