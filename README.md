@@ -42,7 +42,9 @@ BMI_Calculator
 #AUTHOR:
 
 Sajiyya Fathima N
-BE CSE Student | Python Beginner | Learning APIs 
+
+BE CSE Student | Python Beginner | Explore Learning
+
 Oasis Internship | Easwari Engineering College
 
         
